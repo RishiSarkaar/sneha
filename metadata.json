@@ -1,0 +1,8 @@
+{
+  "name": "ApexPark India - Vehicle Locator, FASTag & UPI Parking",
+  "description": "Enterprise multi-level parking facility management in India with NETC FASTag auto-debit, dynamic UPI QR checkout, HSRP vehicle registration, and floor plan navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
